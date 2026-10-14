@@ -1,0 +1,82 @@
+==============================================================================
+TALANDAR MODDING LICENSE (October 2026)
+==============================================================================
+Copyright (c) 2026 Talandar. All rights reserved.
+
+This modification (hereafter referred to as "the Mod") is protected by
+applicable copyright and intellectual property laws.
+
+1. PERMITTED USE You are granted a non-exclusive, non-transferable, revocable
+licence to download and use the Mod solely for your personal, non-commercial
+enjoyment within the host game or application.
+
+2. CONTENT CREATION & MEDIA PERMISSION You are permitted to showcase, record,
+stream, and review the Mod in online content and media platforms (including,
+but not limited to, YouTube, Twitch, and social media) and monetize such media
+content, provided that you credit the author and provide a direct link to the
+official Mod download page.
+
+3. PROHIBITED USES & RESTRICTIONS BY THIRD PARTIES
+- RE-UPLOAD & REDISTRIBUTION: You are strictly prohibited from re-uploading,
+  re-distributing, mirroring, hosting, or sharing the Mod (in whole or in part)
+  on any website, platform, cloud storage, or public/private distribution
+  service other than the official download sources provided directly by the
+  original author.
+  - EXCEPTION: Referencing the Mod as an automatic dependency in other mods or
+    modpack manifests (where the application fetches the Mod directly from the
+    author's official distribution source) is permitted.
+
+- MODIFICATION & DERIVATIVE WORKS: You are strictly prohibited from modifying,
+  adapting, decompiling, reverse engineering, or creating derivative works
+  based on the Mod code, assets, or structure without prior written permission
+  from the author. 
+  - EXCEPTION 1: You are permitted to make temporary modifications solely for
+    your own private, personal offline use, share snippet bug fixes, or submit
+    translation files directly to the author. 
+  - EXCEPTION 2: Creating and distributing standalone translation mods (which
+    contain only localization files and reference this Mod as a dependency) is
+    permitted.
+  - EXCEPTION 3 (INTEROPERABILITY & API HOOKS): Interfacing with, hooking into,
+    modifying data structures of, or calling the Mod solely at runtime via
+    official game engine mechanisms, public APIs, or data-stage hooks (e.g.,
+    modifying data.raw tables in memory) is permitted. Creating standalone
+    third-party compatibility mods is permitted only if they operate purely
+    through these runtime mechanisms and do not re-distribute, bundle, or
+    overwrite any original source code, assets, or files from this Mod.
+
+- UNSANCTIONED PATCHES & AUTOMATED ASSEMBLY: You may not publish, host, or
+  publicly distribute standalone patchsets, dedicated patch-mods, scripts,
+  automated tools, or instructions designed to overwrite, modify, alter, or
+  replace this Mod's physical source files, archives, or internal structure on
+  third-party systems. Any file-level fixes or improvements intended for the
+  Mod must be submitted directly to the author per Exception 1.
+
+- COMMERCIAL USE & PAYWALLS: Any commercial use, monetization, or placing the
+  Mod behind paywalls (e.g., Patreon, subscriptions, paid downloads) by third
+  parties is strictly prohibited. The author reserves all exclusive rights to
+  monetize, offer early access, or provide commercial access to the Mod.
+
+4. PERMISSIONS, INQUIRIES & EXCEPTIONS The restrictions in Section 3 are in
+place to maintain the integrity of the Mod and prevent unauthorized
+redistribution or modification. If you wish to use, adapt, include in modpacks
+(via bundling), or distribute any part of this Mod in a manner otherwise
+restricted by this License, please contact the author directly. 
+
+Permissions may be granted on a case-by-case basis at the author's sole
+discretion. Community & Support Discord: https://discord.gg/RTjVKhnPT3
+
+5. PLATFORM & SERVICE COMPLIANCE (UNIVERSAL CLAUSE) Nothing in this License
+shall restrict, override, or conflict with the Terms of Service (ToS), End User
+License Agreements (EULA), or legal distribution requirements of any game
+developer, publisher, or distribution platform (including but not limited to
+official mod portals, Steam Workshop, Modrinth) where the original author
+officially publishes or distributes the Mod. All permissions granted to such
+platforms or entity owners by the author remain fully effective for as long as
+the Mod is officially hosted on said platform. The author reserves the right
+to remove or cease distribution of the Mod on any platform at any time if
+platform terms change unfavourably after this Mod has been released.
+
+6. DISCLAIMER OF WARRANTY The Mod is provided "as is", without warranty of any
+kind, express or implied. In no event shall the author be liable for any claim,
+damages, or other liability arising from the use of the Mod.
+==============================================================================
